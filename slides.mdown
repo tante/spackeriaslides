@@ -1,3 +1,4 @@
-# Die datenschutzkritische Spackeria
+# Die datenschutzkritische Spackeria ![Spackeria Logo](images/spackeria.png)
+
 ---
 # Problem

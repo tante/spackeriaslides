@@ -32,9 +32,7 @@ div.presentation {
   display: table-cell;
   vertical-align: middle;
   height: 100%;
-  background: -webkit-gradient(linear, left bottom, left top, from(#2e3436), to(#555753));
-  background-color: #555753;
-  background: -moz-linear-gradient(bottom, #fff, #04589f);
+  background: url('background.png');
 }
 
 div.slides {
@@ -51,7 +49,7 @@ div.slides {
 }
 
 div.slide {
-  background: url('background.png') bottom center no-repeat;
+  
   display: none;
   position: absolute;
   overflow: hidden;
