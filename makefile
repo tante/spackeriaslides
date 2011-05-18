@@ -1,0 +1,2 @@
+all:
+	landslide spackeria.cfg
