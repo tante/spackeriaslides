@@ -1,4 +1,74 @@
 # Die datenschutzkritische Spackeria ![Spackeria Logo](images/spackeria.png)
 
 ---
-# Problem
+# WIR WERDEN ALLE STERBEN!!Elf
+
+![threats](images/threat.png)
+
+---
+# Konzept Datenschutz
+
+* Schutz vor "Missbrauch personenbezogener Daten"
+* Grundrecht auf "informationelle Selbstbestimmung"
+* In Deutschland "Bundesdatenschutzgesetz" (BDSG)
+    * Historische Perspektive: Nazi-Deutschland
+      => Schutz des einzelnen gegen den Staat
+---
+# Privatsphäre: Daten
+
+* “The right to be let alone” S. Warren and L. Brandeis 1890
+    * Privacy as Confidentiality
+* "the right of the individual to decide what information about himself should be communicated to others and under what circumstances" A. F. Westin 1970
+    * Privacy as Control
+---
+# Privatsphäre: Mensch
+
+Privacy is:
+
+"the freedom from unreasonable constraints on the construction of one’s own identity"
+
+Philip E. Agre, Marc Rotenberg 1998
+
+---
+# Irrtum Datenschutz
+---
+# Datensparsamkeit
+
+* möglichst viele Daten bei sich behalten
+* bei Bedarf falsche Daten angeben
+
+Funktioniert (teils)! Aber:
+
+* Nutzen des Netzes wird minimiert
+* Transparenz erschwert
+* oft wenig praktikabel
+---
+# Datenkontrolle
+
+* die alte DRM Masche
+* Behauptung:
+  **"Ich kann Daten kontrollieren, die ich nicht unter Kontrolle habe."**
+* ganz einfach technisch *Unfug*
+* "Datenschutzhomöopathie"
+
+---
+# Gesetze!
+
+* gegen Staat: Gesetzesänderungen?
+* gegen Firmen: lokale Gesetze vs. globale Firmen
+* gegen die anderen: => totaler Überwachungsstaat
+
+---
+
+
+---
+**Danke für die Aufmerksamkeit**
+
+Bei Fragen:
+
+* jetzt hier oder @tante
+* @spackeria
+* IRC Freenode #Spackeria
+
+Folien unter [http://the-gay-bar.com/spackeria/](http://the-gay-bar.com/spackeria/) oder 
+[https://github.com/tante/spackeriaslides](https://github.com/tante/spackeriaslides)
