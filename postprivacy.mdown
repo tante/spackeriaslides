@@ -1,0 +1,247 @@
+# Postprivacy
+
+---
+
+# WIR WERDEN ALLE STERBEN!!Elf
+
+![threats](images/threat.png)
+
+---
+
+# Status Quo
+
+* das Internet hat die globale Gesellschaft verändert ("Verdatung")
+* in sozialen Netzwerken teilen Millionen Inhalte
+
+daraus folgt
+
+* Bedrohung der "Privatsphäre"
+   * "Partybilder" führen zu Nichteinstellung
+   * "Firmen wissen alles über Dich"
+
+---
+
+# Privatsphäre?
+
+---
+
+# Geschichte (TL;DR Edition)
+
+---
+
+# Rom
+
+* Privatus als Gegenpol zur "Res Publica"
+    * alles was nicht Amt oder Militär ist
+    * abgeleitet von "*privare*": berauben
+* Privat war negativ: Nichtbeteiligung am Gemeinsamen
+* Im Haus lebten trotzdem viele Auf einem Haufen
+    * ohne "Privatsphäre"
+
+---
+
+# Ende 19. Jhdt
+
+* Privat waren Haushalt/Familie
+* Nur das "Oberhaupt" war öffentlich
+* Frau und Kinder waren private Wesen
+    * machtlos
+* was im Privaten passierte, ging die Welt nichts an
+    * häusliche Gewalt
+    * ...
+
+---
+
+# Privatsphäre now
+
+---
+
+# Grundlage
+
+* “The right to be let alone” S. Warren and L. Brandeis 1890
+    * Privacy as Confidentiality
+* "the right of the individual to decide what information about himself should be communicated to others and under what circumstances" A. F. Westin 1970
+    * Privacy as Control
+* BRD: "Recht auf informationelle Selbstbestimmung"
+
+---
+
+# Aspekte der Privatsphäre
+
+* Einkommen
+* politische Meinung
+* Recht am eigenen Bild
+* sexuelle Orientierung/Vorlieben
+* ggflls. Aufenthaltsort
+* ...
+
+---
+
+# Warum Privatsphäre?
+
+* Schutz vor Diskriminierung
+    * sozial
+    * ökonomisch
+* Garantie eines Schutzraumes zur Entwicklung
+    * der Persönlichkeit
+    * neuer kontroverser Ideen
+
+---
+
+# Datenschutz
+
+* Mechanismen zum Schutz der Privatsphäre
+    * legal
+        * Datenschutzgesetz
+        * Datenschutzbeauftragte
+    * technisch
+        * "Privacy Settings"
+
+---
+
+# WIR WERDEN ALLE STERBEN!!Elf
+
+![threats](images/threat.png)
+
+---
+
+# Irrtum Datenschutz
+
+---
+# Datensparsamkeit
+
+* möglichst viele Daten geheimhalten
+* falsche Daten angeben
+
+Funktioniert (teils)! Aber:
+
+* Nutzen des Netzes wird minimiert
+* Transparenz erschwert
+* oft wenig praktikabel
+
+---
+# Datenkontrolle
+
+* die alte DRM Masche
+* Behauptung:
+  **"Ich kann Daten kontrollieren, die ich nicht unter Kontrolle habe."**
+* ganz einfach technisch *Unfug*
+    * Bruce Schneier: "*Making Bits harder to copy is like making water that is less wet*"
+* "Datenschutzhomöopathie"
+
+---
+# Gesetze!
+
+* gegen Staat: Gesetzesänderungen?
+    * Vorratsdatenspeicherung
+    * ELENA
+* gegen Firmen: lokale Gesetze vs. globale Firmen
+* gegen Mitmenschen: => totaler Überwachungsstaat
+
+---
+
+# Privatsphärenfetisch
+
+* Datenschutzeinstellungen machen das Netz kaum noch nutzbar
+    * Weichert vs. Facebook "Like"
+* Behinderung von Wissenschaft
+    * Krankendaten
+* Nachteil für Arbeitnehmer auf dem Arbeitsmarkt
+* gesellschaftlicher Stillstand
+    * Nicht-Mainstream Meinungen werden nicht öffentlich
+
+---
+
+# *"When all you have's a hammer, all you see is nails"*
+
+---
+# Konsequenzen
+
+* Datenschutz kann Privatsphäre nicht retten
+
+Zwei Optionen:
+
+1. wir geben Vernetzung und Verdatung auf
+1. embracing Postprivacy
+
+---
+# Postprivacy
+
+---
+
+# *"Da wir die Privatsphäre in der Form nicht beschützen können, greifen wir nach Offenheit und Transparenz"*
+
+---
+
+# Warum ist das ne gute Idee?
+
+* Keine ungehaltenen Versprechen von Datenschutz mehr
+* offenere, freiere Gesellschaft
+    * die mit anderen Meinungen umgehen lernt
+    * die transparente, demokratische Kontrolle erlaubt
+* mehr Daten für alle! ;)
+
+---
+# Historische Pro-Beispiele
+
+* Homosexuellenbewegung
+    * offen gelebte Homosexualität hilft Menschen "in the closet"
+* "Wir haben abgetrieben"
+
+
+
+--- 
+
+# Missverständnisse
+
+* Niemand wird gezwungen etwas zu teilen
+    * Man kann nur nicht mehr kontrollieren, was einmal publiziert ist
+* Nicht nur Google/Facebook profitieren
+    * Gehaltsverhandlungen
+    * Finden von Gleichgesinnten
+
+---
+
+# Kritik
+
+---
+
+# "Das will doch keiner wissen!"
+
+* muss auch niemand
+    * Filtersouveränität
+* aber Daten stehen bei Bedarf zur Verfügung
+    * "Wo sind meine Freunde?"
+    * Wissenschaft
+    * "Warum höre ich gerade nichts von A?"
+
+---
+
+# "Das ist die Grundlage für den Überwachungsstaat!"
+
+* Postprivacy bedeutet micht nur Offenheit der Menschen sondern auch Offenheit der Institutionen
+* Mehr Kontrolle des Staates durch die Bürger!
+* Vergleich DDR:
+    * dort wurde genau Öffentlichkeit unterbunden/reglementiert!
+    * Privatheit (zu Hause) war geduldet
+    * genau das wäre durch PP ausgehebelt, PP ist also gegen Überwachungsstaaten
+
+--- 
+# "Alternative Denkrichtungen brauchen Schutzräume!"
+
+* Schutzräume existieren weiterhin, nur nicht legal sondern auf Vertrauen basierend
+* die Akzeptanz von neuen Denkrichtungen steigt 
+* Der Mythos der Perfektion wird entkräftet
+
+---
+# Danke für die Aufmerksamkeit
+
+Bei Fragen:
+
+* jetzt hier oder @tante
+* @spackeria
+* [http://spackeria.org](http://spackeria.org)
+* IRC Freenode #Spackeria
+
+Folien unter [http://the-gay-bar.com/spackeria/](http://the-gay-bar.com/spackeria/) oder 
+[https://github.com/tante/spackeriaslides](https://github.com/tante/spackeriaslides)
