@@ -73,6 +73,7 @@ daraus folgt
 * Recht am eigenen Bild
 * sexuelle Orientierung/Vorlieben
 * ggflls. Aufenthaltsort
+* Religion
 * ...
 
 ---
@@ -104,10 +105,6 @@ daraus folgt
 ![threats](images/threat.png)
 
 ---
-
-# Irrtum Datenschutz
-
----
 # Datensparsamkeit
 
 * möglichst viele Daten geheimhalten
@@ -118,6 +115,10 @@ Funktioniert (teils)! Aber:
 * Nutzen des Netzes wird minimiert
 * Transparenz erschwert
 * oft wenig praktikabel
+
+---
+
+# Irrtum Datenschutz
 
 ---
 # Datenkontrolle
@@ -142,17 +143,13 @@ Funktioniert (teils)! Aber:
 
 # Privatsphärenfetisch
 
-* Datenschutzeinstellungen machen das Netz kaum noch nutzbar
+* Datenschutzeinstellungen machen das Netz unbenutzbar
     * Weichert vs. Facebook "Like"
-* Behinderung von Wissenschaft
-    * Krankendaten
+* Behinderung von Wissenschaft 
+    * z.B. Krankendaten
 * Nachteil für Arbeitnehmer auf dem Arbeitsmarkt
 * gesellschaftlicher Stillstand
     * Nicht-Mainstream Meinungen werden nicht öffentlich
-
----
-
-# *"When all you have's a hammer, all you see is nails"*
 
 ---
 # Konsequenzen
@@ -201,7 +198,6 @@ Zwei Optionen:
 * bessere Dates
     * OKcupid
 
-
 --- 
 
 # Missverständnisse
@@ -211,6 +207,7 @@ Zwei Optionen:
 * Nicht nur Google/Facebook profitieren
     * Gehaltsverhandlungen
     * Finden von Gleichgesinnten
+    * weniger Isolation
 
 ---
 
