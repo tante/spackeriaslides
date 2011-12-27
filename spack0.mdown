@@ -1,15 +1,115 @@
 # Program or be programmed - Postprivacy als Ausgrenzungsideologie?
 
 ---
-
 # /me
 
-* @tante
+* [@tante](http://twitter.com/tante)
+* [the-gay-bar.com](http://the-gay-bar.com)
+* Wissenschaftler an der Uni Oldenburg
 * spackeria
+* mag Affen
+
+---
+# Datenspotting
+
+* Verdatung der Welt
+    * Internet of things
+* Selbstverdatung der Menschen
+    * social Networks
+    * FOAF
+* "traditionelle" Datenbanken
+    * Staat
+    * Arbeitgeber
+---
+# Die einen vs. die anderen (vereinfacht)
+
+* Datenschützer
+    * DRM
+    * Gesetze zur Verringerung des Datenflusses
+    * "Story":  *Gefahren*
+* Postprivacy
+    * weitgehende Aufgabe von Privacy und Datenkontrolle
+    * "Story": *Chancen*
+
+---
+# Chancen
+
+*These*: mehr Daten erlauben bessere Entscheidungen
+
+* Gehaltsverhandlungen
+* Gesundheit
+* politische Meinungsbildung
+* Empfehlungssysteme
+---
+# mehr Chancen
+
+* Daten sind nützlich
+    * Wann haben meine Freunde Geburtstag?
+    * Wie kann ich X eine Freude machen?
+* öffentliche Daten verändern "die Norm"
+
+---
+# Datenungleichgewicht heute
+
+* Staat und Firmen
+    * aggregierte Daten
+    * viele Datenquellen
+    * *Datenreichtum*
+* einzelne Menschen
+    * vereinzelte Daten
+    * wenig digital, kaum nutzbar
+    * *Datenarmut*
+
+---
+# => Ziel: fairere Verteilung der Daten
+---
+# Problem: "Möglichkeiten" vs. "Realität"
+---
+# Wer profitiert?
+
+Menschen, die
+
+* programmieren
+* sehr abstrakt denken
+* Datenbanken aufbauen, analysieren und abfragen
+* Resourcen zur Datensammlung und -speicherung aufbringen
+
+können.
+
+---
+# IT-Worker als Hohepriester des neuen digitalen Zeitalters?
+
+---
+# Ausgrenzung
+
+* Accessibility-Probleme
+    * Lesbarkeit
+    * Bedienbarkeit
+* Hohe Abstraktionsanforderungen
+* Hohe Lernanforderungen
+    * Wer hat denn noch die Zeit dafür?
+
+---
+# Ist das die Welt, die wir schaffen wollen?
+---
+# Lösungsstrategien
+
+* Anti-Diskriminierungsgesetze?
+    * kaum durchsetzbar
+* "trustworthy" Software
+    * Wer baut und betreibt die?
+* "Datenverarbeitung" an schulen
+    * Wer unterrichtet das?
+    * Nur ein weiteres Fach zum Durchfallen …
+
+---
+# Fazit
+---
+# Ohne Lösung des Problems ist PP nur Ersetzung bestehender Ungleichheit durch eine neue mit uns selbst als Profiteuren.
 
 ---
 
----
+Vielen Dank für die Aufmerksamkeit!
 
 Folien unter [http://the-gay-bar.com/spackeria/](http://the-gay-bar.com/spackeria/) oder 
 [https://github.com/tante/spackeriaslides](https://github.com/tante/spackeriaslides)
