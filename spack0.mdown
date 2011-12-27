@@ -70,7 +70,7 @@ so lassen sich Machtgefällebedingte Probleme lösen
 
 * Kontrolle staatlichen Handelns
 * Überwacher überwachen
-* Übervorteilung des einzelnen erschweren
+* Übervorteilung des/der Einzelnen erschweren
 
 ---
 # Problem: "Möglichkeiten" vs. "Realität"
@@ -107,6 +107,7 @@ können.
 * Hohe Abstraktionsanforderungen
 * Hohe Lernanforderungen
     * Wer hat denn noch die Zeit dafür?
+* Ressourcenanforderungen
 
 ---
 # Überwindung von Datenunfairness durch andere Datenunfairness ist dumm.
