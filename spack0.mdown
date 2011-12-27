@@ -62,10 +62,29 @@
 
 ---
 # => Ziel: fairere Verteilung der Daten
+
+---
+# Warum Fairness?
+
+so lassen sich Machtgefällebedingte Probleme lösen
+
+* Kontrolle staatlichen Handelns
+* Überwacher überwachen
+* Übervorteilung des einzelnen erschweren
+
 ---
 # Problem: "Möglichkeiten" vs. "Realität"
 ---
-# Wer profitiert?
+# Anforderungen an Daten zur fairen Teilnahme
+
+* Verfügbarkeit von Daten
+* Weiterverarbeitbarkeit
+    * kein DRM
+    * kein FacebookdatenCD Publicity Stunts
+    * keine schemalosen Blobs
+
+---
+# Doch wer kanns nutzen?
 
 Menschen, die
 
@@ -90,7 +109,7 @@ können.
     * Wer hat denn noch die Zeit dafür?
 
 ---
-# Ist das die Welt, die wir schaffen wollen?
+# Überwindung von Datenunfairness durch andere Datenunfairness ist dumm.
 ---
 # Lösungsstrategien
 
