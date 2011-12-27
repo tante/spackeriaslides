@@ -108,6 +108,7 @@ können.
 * Hohe Lernanforderungen
     * Wer hat denn noch die Zeit dafür?
 * Ressourcenanforderungen
+    * Hardware usw.
 
 ---
 # Überwindung von Datenunfairness durch andere Datenunfairness ist dumm.
@@ -115,17 +116,20 @@ können.
 # Lösungsstrategien
 
 * Anti-Diskriminierungsgesetze?
-    * kaum durchsetzbar
+    * Durchsetzbarkeit?
 * "trustworthy" Software
     * Wer baut und betreibt die?
-* "Datenverarbeitung" an schulen
+* "Datenverarbeitung" als Fach an Schulen
     * Wer unterrichtet das?
     * Nur ein weiteres Fach zum Durchfallen …
 
 ---
 # Fazit
----
-# Ohne Lösung des Problems ist PP nur Ersetzung bestehender Ungleichheit durch eine neue mit uns selbst als Profiteuren.
+
+* Ohne Lösung des Problems ist PP nur Ersetzung bestehender Ungleichheit durch eine neue mit uns selbst als Profiteuren.
+* Wenn PP die Welt verbessern soll, müssen wir die Ungleichheit minimieren.
+* Können wir voraussetzen, dass jeder Mensch Programmier/in wird?
+* Mit welchen Strategien geben wir den weniger technikaffinen Menschen Teilhabe?
 
 ---
 
