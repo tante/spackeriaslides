@@ -8,3 +8,6 @@ postprivacy:
 
 spack0:
 	landslide spack0.cfg
+
+bremen2012:
+	landslide bremen2012.cfg
