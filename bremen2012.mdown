@@ -12,9 +12,19 @@
 
 ---
 
-# Stimmungsverlauf
+# Stimmungsverlauf an diesem Abend
 
-![threats](images/stimmung.png)
+![mood](images/stimmung.png)
+
+---
+# Grundlage
+
+* Privatsphäre als Recht auf Geheimhaltung 
+    * “The right to be let alone” S. Warren and L. Brandeis 1890
+* Privatsphäre als Kontrolle
+    * "the right of the individual to decide what information about himself should be communicated to others and under what circumstances" A. F. Westin 1970
+
+⇒ BRD: "Recht auf informationelle Selbstbestimmung"
 
 ---
 
