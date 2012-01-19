@@ -12,6 +12,9 @@
 
 ---
 
+# Stimmungsverlauf
+
+![threats](images/stimmung.png)
 
 ---
 # Danke für die Aufmerksamkeit
