@@ -27,6 +27,55 @@
 ⇒ BRD: "Recht auf informationelle Selbstbestimmung"
 
 ---
+# Privatsphäre
+
+![aspects](images/privacyaspects.png)
+
+---
+# Bedrohung
+
+![threats](images/threat.png)
+
+---
+# Information? Daten!
+
+* Privatsphäre eng mit Daten verbunden
+* Mit Daten kennen wir uns aus!
+
+![yay](images/yay.jpg)
+
+
+---
+
+# Datenschutz!
+
+![datenschutz](images/datenschutz.png)
+
+
+---
+# Datenschutzgesetze
+
+* Schutz vor dem Staat! 
+    * Gesetzesänderungen?
+        * Vorratsdatenspeicherung
+        * ELENA
+* Schutz vor Firmen! 
+    * deutsches Datenschutzrecht gegen globale Firmen?
+* Schutz vor den Mitmenschen!
+    * ⇒ totaler Überwachungsstaat
+
+---
+# Technischer Datenschutz
+
+* die alte DRM Masche
+* Behauptung:
+  **"Ich kann Daten kontrollieren, die ich nicht unter Kontrolle habe."**
+* ganz einfach technisch *Unfug*
+    * Bruce Schneier: "*Making Bits harder to copy is like making water that is less wet*"
+* "Datenschutzhomöopathie"
+
+
+---
 
 ![leave](images/leave_privacy_alone.jpg)
 
