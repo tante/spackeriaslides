@@ -70,14 +70,29 @@
 * die alte DRM Masche
 * Behauptung:
   **"Ich kann Daten kontrollieren, die ich nicht unter Kontrolle habe."**
-* ganz einfach technisch *Unfug*
+* technischer *Schwachfug*
     * Bruce Schneier: "*Making Bits harder to copy is like making water that is less wet*"
 * "Datenschutzhomöopathie"
 
+---
+
+# Und jetzt?
+
+---
+
+![4everalone](images/foreveralone.jpg)
 
 ---
 
 ![leave](images/leave_privacy_alone.jpg)
+
+---
+
+![dealwithit](images/dealwithit.png)
+
+---
+
+![chances](images/chances.jpg)
 
 ---
 # Danke für die Aufmerksamkeit
