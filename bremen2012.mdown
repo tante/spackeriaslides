@@ -12,7 +12,7 @@
 
 ---
 
-# Stimmungsverlauf an diesem Abend
+# Stimmungsverlauf beim Vortrag
 
 ![mood](images/stimmung.png)
 
