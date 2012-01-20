@@ -72,6 +72,7 @@
   **"Ich kann Daten kontrollieren, die ich nicht unter Kontrolle habe."**
 * technischer *Schwachfug*
     * Bruce Schneier: "*Making Bits harder to copy is like making water that is less wet*"
+* Kontrollverlust
 * "Datenschutzhomöopathie"
 
 ---
@@ -93,6 +94,31 @@
 ---
 
 ![chances](images/chances.jpg)
+
+---
+
+![goodguy](images/goodguy.jpg)
+
+---
+
+![datalove](images/datalove.jpg)
+
+---
+
+![badguy](images/nakedpics.jpg)
+
+---
+
+# Was tun?
+
+* Weg von der Angst- und Gefahrdebatte!
+* Analysieren
+* Sensibilisieren
+* Chancen erkennen und nutzen
+
+---
+
+![tyler](images/tylerdurden.jpg)
 
 ---
 # Danke für die Aufmerksamkeit
